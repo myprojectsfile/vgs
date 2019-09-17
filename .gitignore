@@ -22,3 +22,4 @@ yarn-error.log*
 *.sw*
 
 foo.vue
+04-lists-and-conditionals/begin/vue-heroes/yarn.lock
